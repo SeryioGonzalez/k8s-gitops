@@ -1,1 +1,3 @@
-# k8s-gitops
+# Kubernetes GitOps testing
+
+Used for validating Azure Arc connected clusters
